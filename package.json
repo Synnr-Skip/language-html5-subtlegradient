@@ -1,0 +1,10 @@
+{
+  "name": "language-html5-subtlegradient",
+  "version": "0.0.0",
+  "description": "HTML5 Bundle for Atom",
+  "repository": "https://github.com/subtlegradient/language-html5-subtlegradient",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
